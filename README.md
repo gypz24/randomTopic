@@ -1,5 +1,5 @@
 # RandomTopic
 
-Comienza a guardar en tu navegador cualquier tema que te parezca interesante ✍ con tan solo un click 👆
+Start saving in your browser any interesting topic ✍ with just one click 👆
 
 
